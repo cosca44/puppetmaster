@@ -20,4 +20,4 @@ node 'stestrhel52.ima.intra' {
 node 'stestrhel64.ima.intra' {
 	include repos
 	include ntp
-}
+
