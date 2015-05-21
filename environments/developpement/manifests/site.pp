@@ -5,10 +5,10 @@ node 'stestsles11.ima.intra' {
 	include ntp
 }
 
-node 'stestsles02.ima.intra' {
-	include repos
-	include motd
-}
+#node 'stestsles02.ima.intra' {
+#	include repos
+#	include motd
+#}
 
 
 node 'stestrhel52.ima.intra' {
